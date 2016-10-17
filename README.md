@@ -1,0 +1,22 @@
+- Figure out what language to learn
+- Figure out what platform to run on
+- Figure out how to build your application
+- Create minimal pom
+- Create directory structure
+- Critical thinking
+    - Maintain certainty proportional to evidence
+    - Week Evidence (not sufficient to claim something is true)
+        - Documentation
+        - Training Videos
+        - Information from someone smarter, more experienced, more skilled, or more knowledgable than you
+    - Strong Evidence (sufficient to claim something is true until opposing evidence can be presented)
+        - Specifications
+        - Code you have gotten to work
+- Different styles of learning
+- Xml specification
+- Read maven documentation
+- Read http spec
+- Read servlet spec
+- Learn about encodings (talk about hidden inputs, functions)
+- Who closes writer?
+- How do we know we need .war
