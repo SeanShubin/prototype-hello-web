@@ -5,13 +5,23 @@
 - Create directory structure
 - Critical thinking
     - Maintain certainty proportional to evidence
-    - Week Evidence (not sufficient to claim something is true)
+    - Weak Evidence (not sufficient to claim something is true)
         - Documentation
+        - articles explaining a specification
+        - stack overflow
+        - Wikipedia
         - Training Videos
-        - Information from someone smarter, more experienced, more skilled, or more knowledgable than you
+        - existing practice
+        - individuals, even if they are smarter, more skilled, more experienced, or higher ranking than you
+    - Accepting week evidence as sufficient creates chaos
+        - false information propagates through individuals that are well intentioned but wrong 
+        - bad practices multiply as existing code is copied
+            - it may have been done for good reason in the original case
+            - unless you understand that reason, you can not know if it applies to your case
+    - Weak evidence is useful to find strong evidence
     - Strong Evidence (sufficient to claim something is true until opposing evidence can be presented)
-        - Specifications
-        - Code you have gotten to work
+        - Specifications from the owner
+        - What you have actually verified
 - Different styles of learning
 - Xml specification
 - Read maven documentation
@@ -20,3 +30,24 @@
 - Learn about encodings (talk about hidden inputs, functions)
 - Who closes writer?
 - How do we know we need .war
+
+
+- Richard Feynman 
+    - The first principle is that you must not fool yourself — and you are the easiest person to fool.
+    - In general we look for a new law by the following process. First we guess it. Then we compute the consequences of the guess to see what would be implied if this law that we guessed is right. Then we compare the result of the computation to nature, with experiment or experience, compare it directly with observation, to see if it works. If it disagrees with experiment it is wrong. In that simple statement is the key to science. It does not make any difference how beautiful your guess is. It does not make any difference how smart you are, who made the guess, or what his name is – if it disagrees with experiment it is wrong. That is all there is to it.
+    - The Character of Physical Law
+- some others worth checking out
+    - Ibn al-Haytham (965-1040)
+    - Leonardo da Vinci (1452–1519)
+    - Francis Bacon (1561-1626)
+    - Galileo Galilei (1564–1642)
+    - John Stuart Mill (1806–1873)
+    - John von Neumann (1903-1957
+    - Richard Feynman (1918–1988)
+
+
+- [Java Servlet Specification Version 3.0](http://download.oracle.com/otn-pub/jcp/servlet-3.0-fr-eval-oth-JSpec/servlet-3_0-final-spec.pdf)
+- [Extensible Markup Language 1.0](https://www.w3.org/TR/REC-xml/)
+- [Hypertext Transfer Protocol 1.1](https://tools.ietf.org/html/rfc2616)
+- [Uniform Resource Locators](https://tools.ietf.org/html/rfc1738)
+- [Domain Name System (DNS) Case Insensitivity Clarification](https://tools.ietf.org/html/rfc4343)
