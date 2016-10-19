@@ -5,7 +5,9 @@
 - Create directory structure
 - Critical thinking
     - Maintain certainty proportional to evidence
-    - Weak Evidence (not sufficient to claim something is true)
+    - Knowledge is Justified True Belief
+        - I use Reliabilist Epistemology to solve the edge case of the Gettier problem 
+    - Unreliable Evidence (not sufficient to claim something is true)
         - Documentation
         - articles explaining a specification
         - stack overflow
@@ -13,13 +15,13 @@
         - Training Videos
         - existing practice
         - individuals, even if they are smarter, more skilled, more experienced, or higher ranking than you
-    - Accepting week evidence as sufficient creates chaos
+    - Accepting unreliable evidence as sufficient creates chaos
         - false information propagates through individuals that are well intentioned but wrong 
         - bad practices multiply as existing code is copied
             - it may have been done for good reason in the original case
             - unless you understand that reason, you can not know if it applies to your case
-    - Weak evidence is useful to find strong evidence
-    - Strong Evidence (sufficient to claim something is true until opposing evidence can be presented)
+    - Unreliable evidence can be useful to find reliable evidence
+    - Reliable Evidence (sufficient to claim something is true until opposing evidence can be presented)
         - Specifications from the owner
         - What you have actually verified
 - Different styles of learning
@@ -51,3 +53,4 @@
 - [Hypertext Transfer Protocol 1.1](https://tools.ietf.org/html/rfc2616)
 - [Uniform Resource Locators](https://tools.ietf.org/html/rfc1738)
 - [Domain Name System (DNS) Case Insensitivity Clarification](https://tools.ietf.org/html/rfc4343)
+- [Reliabilist Epistemology](http://plato.stanford.edu/entries/reliabilism/)
