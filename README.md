@@ -47,10 +47,16 @@
     - John von Neumann (1903-1957
     - Richard Feynman (1918–1988)
 
+- references
+    - [Java Servlet Specification Version 3.0](http://download.oracle.com/otn-pub/jcp/servlet-3.0-fr-eval-oth-JSpec/servlet-3_0-final-spec.pdf)
+    - [Extensible Markup Language 1.0](https://www.w3.org/TR/REC-xml/)
+    - [Hypertext Transfer Protocol 1.1](https://tools.ietf.org/html/rfc2616)
+    - [Uniform Resource Locators](https://tools.ietf.org/html/rfc1738)
+    - [Domain Name System (DNS) Case Insensitivity Clarification](https://tools.ietf.org/html/rfc4343)
+    - [Reliabilist Epistemology](http://plato.stanford.edu/entries/reliabilism/)
 
-- [Java Servlet Specification Version 3.0](http://download.oracle.com/otn-pub/jcp/servlet-3.0-fr-eval-oth-JSpec/servlet-3_0-final-spec.pdf)
-- [Extensible Markup Language 1.0](https://www.w3.org/TR/REC-xml/)
-- [Hypertext Transfer Protocol 1.1](https://tools.ietf.org/html/rfc2616)
-- [Uniform Resource Locators](https://tools.ietf.org/html/rfc1738)
-- [Domain Name System (DNS) Case Insensitivity Clarification](https://tools.ietf.org/html/rfc4343)
-- [Reliabilist Epistemology](http://plato.stanford.edu/entries/reliabilism/)
+- Modes of software development
+    - Prototyping
+    - Test Driven Design
+    - Implementation
+    - Refactoring
